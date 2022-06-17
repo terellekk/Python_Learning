@@ -7,7 +7,8 @@ The above shows my learning path, by studying both the Data Engineering and Web 
 
 # Documentation
 
-https://numpy.org/doc/ \n
+https://numpy.org/doc/ 
+
 https://pandas.pydata.org/docs/
 https://matplotlib.org/
 https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16
